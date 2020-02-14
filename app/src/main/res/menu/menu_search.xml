@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.msapplications.btdt.activities.TravelActivity">
+
+    <item
+        android:id="@+id/action_filter_countries"
+        android:icon="@drawable/ic_search"
+        android:title="@string/menu_travel_map_search"
+        android:orderInCategory="1"
+        android:visible="false"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always|collapseActionView"
+        tools:visible="true" />
+</menu>

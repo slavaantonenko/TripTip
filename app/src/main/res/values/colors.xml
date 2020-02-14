@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00daf2</color>
+    <color name="colorPrimaryDark">#00B8D4</color>
+    <color name="colorAccent">#ffb152</color>
+
+    <color name="flag_default">#adacac</color>
+    <color name="atc_icons">#757575</color>
+    <color name="atc_travel_been_there">#616161</color>
+
+    <color name="atc_titles">#424242</color>
+    <color name="atc_divider_line">#E0E0E0</color>
+
+    <!-- Highlight country -->
+    <color name="highlightCountry">#33F50057</color>
+</resources>
