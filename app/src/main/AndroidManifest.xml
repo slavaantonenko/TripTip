@@ -38,7 +38,11 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC7YQRa6fwQUw5jWP2PQ9dbpUa5JshuJI0" />
+            android:value="AIzaSyC7YQRa6fwQUw5jWP2PQ9dbpUa5JshuJI0"/>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3647038151482350~2559390900"/>
 
         <uses-library
             android:name="org.apache.http.legacy"
