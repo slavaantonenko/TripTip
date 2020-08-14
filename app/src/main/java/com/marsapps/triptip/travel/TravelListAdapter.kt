@@ -1,6 +1,5 @@
 package com.marsapps.triptip.travel
 
-//import com.bumptech.glide.request.target.Target
 import android.content.Context
 import android.graphics.Color
 import android.graphics.drawable.Drawable
